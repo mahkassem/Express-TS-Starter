@@ -1,6 +1,7 @@
 # Express TypeScript Starter
 
-Load images from URL with the ability to request an image thumbnail with a custom size,
+A quick starter package for express + typescript project.
+It was created for educational purpose.
 
 ## Used Technologies:
 
